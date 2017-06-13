@@ -1,0 +1,62 @@
+#top {
+	background-color: #ffff99;
+	padding: 90px;
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+}
+
+#name {
+	text-align: center;
+	font-size: 50px;
+	display: inline-block;
+	color: purple;
+	font-family: Cursive;
+}
+
+#logo {
+	position: absolute;
+	right: 0%;
+	top: 20px;
+}
+
+#title {
+	color: #990099;	
+}
+
+#FlavorTitle{
+	margin-top: 430px;
+	margin-left: 150px;
+}
+
+#chocolatetitle{
+	margin-top:-150px;
+	margin-left: 600px;
+	font-size:30px;
+	font-family: Arial;
+}
+
+#chocolatedes {
+	font-size: 25px;
+	font-family: Cursive;
+	margin-left: 500px;
+	margin-right: 50px;
+
+}
+
+#chocolate {
+	margin-left: -80px;
+	margin-bottom: -80px;
+}
+
+#chocolatefunny {
+	margin-left: 1000px;
+	margin-bottom: -10px;
+	
+}
+
+#chocolatefunny1 {
+	margin-left: 600px;
+	margin-top: -300px;
+}

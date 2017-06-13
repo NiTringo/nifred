@@ -1,0 +1,147 @@
+#top {
+	background-color: orange;
+	padding: 90px;
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 410px;
+}
+
+#sponsors {
+	text-decoration: none;
+}
+
+#aboutimg {
+	margin-top: 380px;
+	margin-left: 185px;
+}
+
+#QandA {
+	margin-top: 400px;
+}
+
+#qa {
+	margin-left: 11%;
+}
+
+#name {
+	text-align: center;
+	font-size: 50px;
+	display: inline-block;
+	color: purple;
+}
+
+#logo {
+	position: absolute;
+	right: 0%;
+	top: 20px;
+}
+
+#title {
+	color: #990099;
+	position: absolute; 
+}
+
+#titlelink {
+	text-decoration: none;
+}
+
+body {
+	background-color: #ffccff;
+}
+
+#chocolate {
+	margin-top: 500px;
+	margin-left: 100px;
+}
+
+#mango {
+	position: absolute;
+	left: 350px;
+	bottom: 180px;
+}
+
+#straw {
+	position: absolute;
+	left: 600px;
+	bottom: 180px;
+}
+
+#almond {
+	position: absolute;
+	left: 850px;
+	bottom: 180px;
+}
+
+#berry {
+	position: absolute;
+	left: 1150px;
+	bottom: 180px;
+}
+
+#vanilla{
+	position: absolute;
+	left: 110px;
+}
+
+#banana{
+	position: absolute;
+	left: 340px;
+}
+
+#matcha{
+	position: absolute;
+	left: 595px;
+	bottom: 35px;
+}
+
+#caramel{
+	position: absolute;
+	left: 850px;
+	bottom: 10px;
+}
+
+#tiramisu {
+	position: absolute;
+	left: 1150px;
+	bottom: 30px;
+}
+
+.con{
+	margin-top:300px;
+	width:1000px;
+	margin-bottom:-463px;
+}
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc;
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 10px; 
+    resize: vertical 
+}
+
+input[type=submit] {
+    background-color: #FA58D0;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #F781F3;
+    padding: 20px;
+	margin-top:400px;
+}
